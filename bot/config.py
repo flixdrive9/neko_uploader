@@ -1,11 +1,11 @@
 class config:
-    BOT_TOKEN = "1333441087:AAG_9LEv4pOZlU0Hr24NUiCNkGIHCCOxTDI"
-    APP_ID = "1981542"
-    API_HASH = "1883eb9abe2fb434891bf67e8fb4e9b6"
-    DATABASE_URL = "postgres://wizwhrubusxlzi:9a400c11fbe8355ff56583d6ee282cc613778d83397b5d85037e2d48782ddbbb@ec2-52-200-134-180.compute-1.amazonaws.com:5432/d2rojcldcf7nd7"
-    SUDO_USERS = "1208922696" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
-    DOWNLOAD_DIRECTORY = "./downloads/"
+    ENV BOT_TOKEN = "1333441087:AAG_9LEv4pOZlU0Hr24NUiCNkGIHCCOxTDI"
+    ENV APP_ID = "1981542"
+    ENV API_HASH = "1883eb9abe2fb434891bf67e8fb4e9b6"
+    ENV DATABASE_URL = "postgres://wizwhrubusxlzi:9a400c11fbe8355ff56583d6ee282cc613778d83397b5d85037e2d48782ddbbb@ec2-52-200-134-180.compute-1.amazonaws.com:5432/d2rojcldcf7nd7"
+    ENV SUDO_USERS = "1208922696" # Sepearted by space.
+    ENV SUPPORT_CHAT_LINK = ""
+    ENV DOWNLOAD_DIRECTORY = "./downloads/"
 
 
 class BotCommands:
